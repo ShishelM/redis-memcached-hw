@@ -37,7 +37,7 @@
 
 Установите и запустите memcached.
 
-*Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*te
+*Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 ![0](img/image.png)
 
 ---
